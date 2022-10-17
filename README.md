@@ -9,6 +9,7 @@
 [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=jbarz20&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=jbarz20&cover_image=true&theme=default&show_offline=true&bar_color=51a0d2&bar_color_cover=false)]]
 
 <!--
 **JesusBarboza1994/JesusBarboza1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
