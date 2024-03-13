@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🤝 I’m looking for help with projects on Rails, Django, Vue and React<br>🌱 I’m currently learning full stack development<br>
+🤝 I’m looking for help with projects on Rails, Django, Vue and React<br>🌱 I’m currently working as full stack developer<br>
 
 
 ## 🌐 Socials:
